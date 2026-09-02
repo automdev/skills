@@ -1,0 +1,30 @@
+{
+  "name": "autom",
+  "version": "1.0.0",
+  "description": "Autom Google Search SERP API. Run Google Search, News, Images, Maps, Shopping, Jobs, Videos, and autocomplete, plus Bing and Brave, and get structured SERP results.",
+  "author": {
+    "name": "Autom",
+    "url": "https://autom.dev"
+  },
+  "homepage": "https://docs.autom.dev",
+  "repository": "https://github.com/automdev/skills",
+  "keywords": [
+    "autom",
+    "serp",
+    "google",
+    "mcp"
+  ],
+  "skills": [
+    "./skills/autom-autocomplete",
+    "./skills/autom-bing-brave-search",
+    "./skills/autom-google-finders",
+    "./skills/autom-image-search",
+    "./skills/autom-jobs-search",
+    "./skills/autom-maps-search",
+    "./skills/autom-news-search",
+    "./skills/autom-search-light",
+    "./skills/autom-shopping-search",
+    "./skills/autom-videos-search",
+    "./skills/autom-web-search"
+  ]
+}
